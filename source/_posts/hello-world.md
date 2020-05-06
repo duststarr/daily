@@ -36,3 +36,24 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+## test
+```react
+import React from 'react'
+
+let num = 0
+const temp = []
+
+export default class A extends React.PureComponent {
+  componentDidMount() {
+    temp.push(num++)
+    console.log(num, temp) // ???
+  }
+
+  render() {
+    return (
+      <div>A</div>
+    )
+  }
+}
+```
