@@ -38,7 +38,7 @@ $ hexo deploy
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 ## test
-```react
+```typescript
 import React from 'react'
 
 let num = 0
