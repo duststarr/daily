@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>谁消费得起神乎其技?</title>
+    <link href="/daily/2020/05/20/%E8%B0%81%E6%B6%88%E8%B4%B9%E5%BE%97%E8%B5%B7%E7%A5%9E%E4%B9%8E%E5%85%B6%E6%8A%80/"/>
+    <url>/daily/2020/05/20/%E8%B0%81%E6%B6%88%E8%B4%B9%E5%BE%97%E8%B5%B7%E7%A5%9E%E4%B9%8E%E5%85%B6%E6%8A%80/</url>
+    
+    <content type="html"><![CDATA[<p>今天读书有段文字,标题大意为”神乎其技”,文中举了人尽皆知的钱孔倒油的例子,并跟神箭手比.原文的态度,神乎其技也有讲究有用性.</p><p>看后我提出几个问题,”谁消费得起这样的技能?”,”什么样的社会消费得起这样的神技?”,”什么样的社会消费得起这么多的匠人?”,”什么样的社会消费得起这么多大学生?”</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/daily/2020/05/20/hello-world/"/>
+    <url>/daily/2020/05/20/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="hljs bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="hljs bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="hljs bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><h2 id="test"><a href="#test" class="headerlink" title="test"></a>test</h2><pre><code class="hljs typescript"><span class="hljs-keyword">import</span> React <span class="hljs-keyword">from</span> <span class="hljs-string">'react'</span><span class="hljs-keyword">let</span> num = <span class="hljs-number">0</span><span class="hljs-keyword">const</span> temp = []<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">class</span> A <span class="hljs-keyword">extends</span> React.PureComponent &#123;  componentDidMount() &#123;    temp.push(num++)    <span class="hljs-built_in">console</span>.log(num, temp) <span class="hljs-comment">// ???</span>  &#125;  render() &#123;    <span class="hljs-keyword">return</span> (      &lt;div&gt;A&lt;<span class="hljs-regexp">/div&gt;</span><span class="hljs-regexp">    )</span><span class="hljs-regexp">  &#125;</span><span class="hljs-regexp">&#125;</span></code></pre>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>儿子去亲戚家住了两天</title>
+    <link href="/daily/2020/05/20/%E5%84%BF%E5%AD%90%E5%8E%BB%E4%BA%B2%E6%88%9A%E5%AE%B6%E4%BD%8F%E4%BA%86%E4%B8%A4%E5%A4%A9/"/>
+    <url>/daily/2020/05/20/%E5%84%BF%E5%AD%90%E5%8E%BB%E4%BA%B2%E6%88%9A%E5%AE%B6%E4%BD%8F%E4%BA%86%E4%B8%A4%E5%A4%A9/</url>
+    
+    <content type="html"><![CDATA[<p>上周末儿子的小舅舅（大三岁）来我家住了两天，两娃没玩够，儿子又去他家住了两天，</p><p>本以为去吃点苦，意外他家大人回来了，儿子还吃了不少好吃的，哈哈，回来就是三个字：没玩够。</p><p>真有点想儿子，因为疫情，跟儿子感情加深了不少，至少我是这么觉得的。</p><p>不知工作安排会什么样，是不是还要两地分居，还是很想念儿子的。</p><p>有时会想起小时父亲的样子，父亲已经走了7年了，每当想起，一阵心痛。</p><p>时光真快，不忍去想</p><p>没有机会孝敬父亲了，善待妈妈和岳父母吧，</p><p>同时自己努力做一个好父亲。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>今天写代码很有感觉</title>
+    <link href="/daily/2020/05/20/%E4%BB%8A%E5%A4%A9%E5%86%99%E4%BB%A3%E7%A0%81%E5%BE%88%E6%9C%89%E6%84%9F%E8%A7%89/"/>
+    <url>/daily/2020/05/20/%E4%BB%8A%E5%A4%A9%E5%86%99%E4%BB%A3%E7%A0%81%E5%BE%88%E6%9C%89%E6%84%9F%E8%A7%89/</url>
+    
+    <content type="html"><![CDATA[<p>今天我的项目向前推进不小</p><p>写代码不能直接上手，要先谋划好，但如何做谋划是门学问</p><p>这两天处理一个小小的工作流，很是头痛</p><p>今天总算缕清关系，渐入佳境</p><p>不能服老还要继续努力</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>一种微信小程序云函数使用方案</title>
+    <link href="/daily/2020/05/18/%E4%B8%80%E7%A7%8D%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%87%BD%E6%95%B0%E4%BD%BF%E7%94%A8%E6%96%B9%E6%A1%88/"/>
+    <url>/daily/2020/05/18/%E4%B8%80%E7%A7%8D%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%87%BD%E6%95%B0%E4%BD%BF%E7%94%A8%E6%96%B9%E6%A1%88/</url>
+    
+    <content type="html"><![CDATA[<p>小程序云函数是个好东西，基本免费，极大简化的小程序后端架设。</p><p>这里提供一种云函数使用实践。</p><h3 id="cloud-端"><a href="#cloud-端" class="headerlink" title="cloud 端"></a>cloud 端</h3><ul><li>增加action直接增加一个函数即可</li><li>我打算函数全写在一个云函数中，这样方便【本地调试】<pre><code class="hljs javascript"><span class="hljs-keyword">const</span> cloud = <span class="hljs-built_in">require</span>(<span class="hljs-string">'wx-server-sdk'</span>)cloud.init()<span class="hljs-keyword">const</span> actions = &#123;&#125;;<span class="hljs-comment">// 云函数入口函数</span>exports.main = <span class="hljs-keyword">async</span> (event, context) =&gt; &#123;  <span class="hljs-keyword">if</span> (event.action &amp;&amp; actions.hasOwnProperty(event.action)) &#123;    <span class="hljs-keyword">return</span> actions[event.action](event, context);  &#125;  <span class="hljs-keyword">return</span> &#123; <span class="hljs-attr">error</span>: <span class="hljs-string">'action do not find.'</span> &#125;&#125;actions.do1 = <span class="hljs-function">(<span class="hljs-params">event, context</span>) =&gt;</span> &#123;&#125;actions.do2 = <span class="hljs-function">(<span class="hljs-params">event, context</span>) =&gt;</span> &#123;&#125;</code></pre><h3 id="小程序端"><a href="#小程序端" class="headerlink" title="小程序端"></a>小程序端</h3><pre><code class="hljs javascript"><span class="hljs-comment">// wxcloud.js</span><span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">wxcloud</span>(<span class="hljs-params">cloud, action, data = &#123;&#125;</span>) </span>&#123;    <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-built_in">Promise</span>(<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params">resolve, reject</span>) </span>&#123;        data.action = action        wx.showLoading(&#123;<span class="hljs-attr">title</span>:<span class="hljs-string">'加载中...'</span>&#125;)        wx.cloud.callFunction(&#123;            name: cloud,            data: data,            success: <span class="hljs-function"><span class="hljs-params">res</span> =&gt;</span> &#123;                wx.hideLoading()                resolve(res)            &#125;,            fail: <span class="hljs-function"><span class="hljs-params">()</span> =&gt;</span> &#123;                wx.hideLoading()                <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'cloud function fail'</span>)                resolve(&#123; <span class="hljs-attr">msg</span>: <span class="hljs-string">'error'</span> &#125;)            &#125;        &#125;)    &#125;)&#125;</code></pre></li></ul><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><pre><code class="hljs javascript"><span class="hljs-keyword">import</span> wxcloud <span class="hljs-keyword">from</span> <span class="hljs-string">'wxcloud.js'</span>wxcloud(<span class="hljs-string">'cloudfunc'</span>,<span class="hljs-string">'do1'</span>,&#123;<span class="hljs-attr">data</span>:<span class="hljs-string">'123'</span>&#125;).then(<span class="hljs-function"><span class="hljs-params">res</span> =&gt;</span>&#123;    &#125;)</code></pre><h1 id="先记下来，有时间再整理吧"><a href="#先记下来，有时间再整理吧" class="headerlink" title="先记下来，有时间再整理吧"></a>先记下来，有时间再整理吧</h1>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>挣钱才是王道</title>
+    <link href="/daily/2020/05/17/%E6%8C%A3%E9%92%B1%E6%89%8D%E6%98%AF%E7%8E%8B%E9%81%93/"/>
+    <url>/daily/2020/05/17/%E6%8C%A3%E9%92%B1%E6%89%8D%E6%98%AF%E7%8E%8B%E9%81%93/</url>
+    
+    <content type="html"><![CDATA[<p>今天跟老婆闹了点小别扭，真是贫贱夫妻百事衰。</p><p>努力挣钱吧，没有借口，没有拖延，只有此刻，现在，马上。</p><p>生死之外，还有钱是重要的</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>收到1500定金，开心</title>
+    <link href="/daily/2020/05/16/%E6%94%B6%E5%88%B01500%E5%AE%9A%E9%87%91%EF%BC%8C%E5%BC%80%E5%BF%83/"/>
+    <url>/daily/2020/05/16/%E6%94%B6%E5%88%B01500%E5%AE%9A%E9%87%91%EF%BC%8C%E5%BC%80%E5%BF%83/</url>
+    
+    <content type="html"><![CDATA[<p>35岁了，本不该为这点小钱而玩命，但还是开心。零的突破。</p><p>别把自己当回事，别把年龄当回事，对外都是一个点，没有内部结构。</p><p>认真做好生命中的每一件事，但行好事，莫问前程</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>需求分析搞定了</title>
+    <link href="/daily/2020/05/15/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E6%90%9E%E5%AE%9A%E4%BA%86/"/>
+    <url>/daily/2020/05/15/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E6%90%9E%E5%AE%9A%E4%BA%86/</url>
+    
+    <content type="html"><![CDATA[<p>费了好大劲，真的尽心尽力了，感觉自己的劳动好不值。</p><p>得面对现实，自己35活成了废材；但不能低头，坦然接受，从头再来。</p><p>今天有个想法</p><p>工资从15000狂降至5000，但我不后悔。钱可以再挣，失去的童年永不再来；生死之外，皆是闲事</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>今天需求来了</title>
+    <link href="/daily/2020/05/14/%E4%BB%8A%E5%A4%A9%E9%9C%80%E6%B1%82%E6%9D%A5%E4%BA%86/"/>
+    <url>/daily/2020/05/14/%E4%BB%8A%E5%A4%A9%E9%9C%80%E6%B1%82%E6%9D%A5%E4%BA%86/</url>
+    
+    <content type="html"><![CDATA[<p>客户发来了需求，还说不着急，好好做。</p><p>呵呵，我分析了一下功能点，天坑啊。做还是不做？怎么做？怎么能多要钱？</p><p>困了，明天再说。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>对已运行的系统进行修改的一个观点</title>
+    <link href="/daily/2020/05/12/%E5%AF%B9%E5%B7%B2%E8%BF%90%E8%A1%8C%E7%9A%84%E7%B3%BB%E7%BB%9F%E4%BF%AE%E6%94%B9%E7%9A%84%E4%B8%80%E4%B8%AA%E8%A7%82%E7%82%B9/"/>
+    <url>/daily/2020/05/12/%E5%AF%B9%E5%B7%B2%E8%BF%90%E8%A1%8C%E7%9A%84%E7%B3%BB%E7%BB%9F%E4%BF%AE%E6%94%B9%E7%9A%84%E4%B8%80%E4%B8%AA%E8%A7%82%E7%82%B9/</url>
+    
+    <content type="html"><![CDATA[<p>对于一个已经稳定运行的系统，维护者需要听到的是<strong>需根解损</strong> 。</p><h2 id="需要性"><a href="#需要性" class="headerlink" title="需要性"></a>需要性</h2><p>为什么要对现有系统做修改？<br>目前的系统是否满足使用？<br>现有系统是否已经引发了某些问题？</p><h2 id="根属性"><a href="#根属性" class="headerlink" title="根属性"></a>根属性</h2><p>这些问题是否是未修改的点引发的？</p><h2 id="解决力"><a href="#解决力" class="headerlink" title="解决力"></a>解决力</h2><p>进行修改是否能解决以上问题？</p><h2 id="损益比"><a href="#损益比" class="headerlink" title="损益比"></a>损益比</h2><p>进行修改需要投入哪些成本？<br>进行修改是否会引入其它风险？<br>为了这些问题，是否值得投入这些成本？ </p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>睡一半想起今天没写随笔</title>
+    <link href="/daily/2020/05/12/%E7%9D%A1%E4%B8%80%E5%8D%8A%E6%83%B3%E8%B5%B7%E4%BB%8A%E5%A4%A9%E6%B2%A1%E5%86%99%E9%9A%8F%E7%AC%94/"/>
+    <url>/daily/2020/05/12/%E7%9D%A1%E4%B8%80%E5%8D%8A%E6%83%B3%E8%B5%B7%E4%BB%8A%E5%A4%A9%E6%B2%A1%E5%86%99%E9%9A%8F%E7%AC%94/</url>
+    
+    <content type="html"><![CDATA[<p>每天一篇，还是得坚持下去的。慢慢成为习惯。</p><p>最近又堕落了，什么也不想干，三分钟热血的习惯写入基因了吗？</p><p>必须得改，从提高自控力着手，必须必须必须得改，尤其得给孩子做一个榜样。</p><p>关于转业，确实挺纠结，主要在去州直还是敦化的问题。</p><p>还是去州直吧，去真正政府机关，不去执法部门。人还是要往高处走的。</p><p>最最重要的，还是要树立明确的志向，唐僧才是取经路上的最强者。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>微信小程序代码统计</title>
+    <link href="/daily/2020/05/11/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81%E7%BB%9F%E8%AE%A1/"/>
+    <url>/daily/2020/05/11/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81%E7%BB%9F%E8%AE%A1/</url>
+    
+    <content type="html"><![CDATA[<p>git log –format=’%aN’ | sort -u | while read name; do echo -en “$name\t”; git log –author=”$name” –pretty=tformat: –numstat | grep “(.wxml|.js|.json|.wxss)$” | awk ‘{ add += $1; subs += $2; loc += $1 - $2 } END { printf “added lines: %s, removed lines: %s, total lines: %s\n”, add, subs, loc }’ -; done</p><p>只统计.wxml .wxss .js .json代码</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>终于读完了围城</title>
+    <link href="/daily/2020/05/10/%E7%BB%88%E4%BA%8E%E8%AF%BB%E5%AE%8C%E4%BA%86%E5%9B%B4%E5%9F%8E/"/>
+    <url>/daily/2020/05/10/%E7%BB%88%E4%BA%8E%E8%AF%BB%E5%AE%8C%E4%BA%86%E5%9B%B4%E5%9F%8E/</url>
+    
+    <content type="html"><![CDATA[<p>围城是我从小就听说过的书，城里城外的寓意，给我很大影响。但说良心话，没读完，直到今天。</p><p>一个多月前从读书馆借了这本书，结果媳妇几天就读完了，我断断续续读了好些天。</p><p>书中许多东西都会引起我的反思，主人人公懦弱，无主见，无能也与我很相似，不敢直视自己吧。</p><p>但我的人生跟他比还差得远呢。主人公是他那个阶层里混的最差的了，但也算上层人士了，不能比不能比。</p><p>城里城外，无能的人想进想出，内心坚定的人，不会有这烦恼。自强不息，立志坚定，方能超脱迷茫吧。</p><p>围城，日译为《结婚狂诗曲》，更遵循小说直接内容吧，起个围城的名字，严重拔高的意境。</p><p>众生百态，还需自强。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>今天接了一个微信小程序的活</title>
+    <link href="/daily/2020/05/09/%E4%BB%8A%E5%A4%A9%E6%8E%A5%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%B4%BB/"/>
+    <url>/daily/2020/05/09/%E4%BB%8A%E5%A4%A9%E6%8E%A5%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%B4%BB/</url>
+    
+    <content type="html"><![CDATA[<p>今天全君群里有个小程序的活，5000元，一个月，完整的项目。</p><p>全当练手吧。明天需求方发来需求。</p><p>今天研究了一下各种模式的小程开发，还真多：原生、mpvue(已作废)、mepy(tencent)、uniapp(vue)、taro(react)等。</p><p>最后还是打算用原生，不管怎么说，先把原生研究明白，总没错，也了解下腾讯奇葩思维吧。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>空虚的一天</title>
+    <link href="/daily/2020/05/08/%E7%A9%BA%E8%99%9A%E7%9A%84%E4%B8%80%E5%A4%A9/"/>
+    <url>/daily/2020/05/08/%E7%A9%BA%E8%99%9A%E7%9A%84%E4%B8%80%E5%A4%A9/</url>
+    
+    <content type="html"><![CDATA[<p>今天玩了一天游戏，呵呵，还是21年前的星际1，找找曾经的记忆。富矿BIG HUNTER,1V7呵呵</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>等待是枯燥的</title>
+    <link href="/daily/2020/05/07/%E7%AD%89%E5%BE%85%E6%98%AF%E6%9E%AF%E7%87%A5%E7%9A%84/"/>
+    <url>/daily/2020/05/07/%E7%AD%89%E5%BE%85%E6%98%AF%E6%9E%AF%E7%87%A5%E7%9A%84/</url>
+    
+    <content type="html"><![CDATA[<p>这两天联系了一些人对军转安置有了进一步的认识。坚定了我去延边州直的决心。没有关系试试自然安置吧。州直单位差不到哪去。</p><p>人生不应该等待，被动接受命运，公务员只是一个工作而已，还是得寻找自己的事业，否则老了真的会后悔的。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>20200506</title>
+    <link href="/daily/2020/05/06/20200506/"/>
+    <url>/daily/2020/05/06/20200506/</url>
+    
+    <content type="html"><![CDATA[<p>一天中会有很多小思，小感。单开一篇博客是不值的，暂且随录之，今后寻找更好的方式。</p><p>对win10的输入法投降了，微软你赢了，微软当年用IE打败netspace,如今又打败各种中文输入法。不是因为微软的输入法好用，而是在WIN10下，微软根本不给其它输入法活路。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>博客的意义</title>
+    <link href="/daily/2020/05/06/%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%84%8F%E4%B9%89/"/>
+    <url>/daily/2020/05/06/%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%84%8F%E4%B9%89/</url>
+    
+    <content type="html"><![CDATA[<p>生活应该留下痕迹。记录每日所学，所感，所思，所为。无悔光阴。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>试试博客新主题</title>
+    <link href="/daily/2020/05/06/%E8%AF%95%E8%AF%95%E5%8D%9A%E5%AE%A2%E6%96%B0%E4%B8%BB%E9%A2%98/"/>
+    <url>/daily/2020/05/06/%E8%AF%95%E8%AF%95%E5%8D%9A%E5%AE%A2%E6%96%B0%E4%B8%BB%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<p>用hexo建立博客有几天了，折腾一下主题。试了个<a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="noopener">fluid</a>，还可以吧。</p><p>起因代码高亮效果不好，折腾一圈越跑越远。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>今天开始写代码了</title>
+    <link href="/daily/2020/05/05/%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E5%86%99%E4%BB%A3%E7%A0%81%E4%BA%86/"/>
+    <url>/daily/2020/05/05/%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E5%86%99%E4%BB%A3%E7%A0%81%E4%BA%86/</url>
+    
+    <content type="html"><![CDATA[<p>月初定的几个目标，只有10000行代码没启动了。今天碰巧看到个用nodejs写爬虫，就学着写了一个算是开始写代码了。</p><p>node写爬虫真的很好用，因为有cheerio(backend jQuery)这个神器。明天可以试着多研究研究爬虫。</p><p>今天有个不错的工作出现在我面前，C#金融工具方面的，说实话有点心动，能挣钱，能偷学源码，能接触圈子</p><p>但没什么信心，还是自己学业不精吧。</p><p>金融交易那个工作有回信了，才发现自己没有简历，是时候整理一下了。临时写了一下，哈哈</p><pre><code class="hljs plain">年龄较大，35，退伍军人，寻求线上兼职机会。本科计算机科学，参与过北斗卫星一个项目，C++，算法基本还行。服役期间开发过一些内部软件，对C#，PHP，VUE比较熟悉。折腾过一段时间tushare，python的量化系统。对服务器商开发，和量化交易兴趣浓厚，希望能加入你们的团队。</code></pre>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>20200504</title>
+    <link href="/daily/2020/05/04/20200504/"/>
+    <url>/daily/2020/05/04/20200504/</url>
+    
+    <content type="html"><![CDATA[<p>今天是五四青年节，自己应该已经过不了。B站做了一个视频，挺励志的，也让人羡慕，年轻真好。</p><p>这段时间，读了好多函数式编程的文章，收获很大，有种功力大涨的错觉，哈哈。应该总结总结，不能读过就过了，一是便于记忆，二是梳理思路，三是回馈社会；不能只取不奉献了。</p><p>今天先说一点感受，就是函数式很适合处理人机交互的内容。字符串处理，表处理，现在在前端界兴起。同时，编程的核心是算法，算法界似乎对函数式不感冒，这个有待求证。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>20200503</title>
+    <link href="/daily/2020/05/03/20200503/"/>
+    <url>/daily/2020/05/03/20200503/</url>
+    
+    <content type="html"><![CDATA[<p>今天本该写点代码，可折腾一上午也没有思路。计划本月写一万行代码，三天了一行也没写。</p><p>没想好写什么，也没想好用什么写。明天行动大于完美吧。</p><p>不过看了一天书，把《围城》又向前推进了一大截，收获也很大。</p><p>钱老给人一种上帝视角俯看众生，读来真觉自己太傻。也许一句“城外的人想进来，城里的人想进来”太过出名，使人觉得精髓已得，不必浪费时间读全文了。真是可笑啊，原文比那句精髓更有价值。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>读《未来世界的幸存者》后感</title>
+    <link href="/daily/2020/05/02/%E8%AF%BB%E3%80%8A%E6%9C%AA%E6%9D%A5%E4%B8%96%E7%95%8C%E7%9A%84%E5%B9%B8%E5%AD%98%E8%80%85%E3%80%8B%E5%90%8E%E6%84%9F/"/>
+    <url>/daily/2020/05/02/%E8%AF%BB%E3%80%8A%E6%9C%AA%E6%9D%A5%E4%B8%96%E7%95%8C%E7%9A%84%E5%B9%B8%E5%AD%98%E8%80%85%E3%80%8B%E5%90%8E%E6%84%9F/</url>
+    
+    <content type="html"><![CDATA[<p>用了两天时间读完了《未来世界的幸存者》（阮一峰著）。这本书是作者16年至18年的部分文集，其中有译作，有对其它书籍或文章的评论，也有一些作者本人的感悟。全书整理为现实篇、职业篇、方法篇、案例篇、未来篇五部分。</p><p>由于内容以译作及评论为主，所以主题并不鲜明，观点也不统一，分散着读或许好些，不太适合我这样集中读。</p><p>本书前半部分比较悲观，有贩卖焦虑之嫌。主要观点，快速变革的时代，任何职业技能都无法长远，而随着年龄增长，学新技能越发困难。如果终身学习是解决的办法的话，等于没有办法。社会高速发展，有些人必将沦为无用之人。</p><p>后半部分引出一些解决道，包括创业、版税、收费聊天群、内容付费等等。我觉得都没用，这些都是针对个人的生存策略，群众之所以是群众，就是水平低于平均的。艰难之路，永远属于少数人。</p><p>最后，作者有引用一些思考，包括人工基因进化等。最后以卡辛斯基的警告结尾。应该说结论是悲观的。智人必将灭亡，人类将会永生。更高级生命形式必将出现。</p><p>对于个人，达则兼济天下，穷则独善其身</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>劳动节定个小目标</title>
+    <link href="/daily/2020/05/02/%E5%8A%B3%E5%8A%A8%E8%8A%82%E5%AE%9A%E4%B8%AA%E5%B0%8F%E7%9B%AE%E6%A0%87/"/>
+    <url>/daily/2020/05/02/%E5%8A%B3%E5%8A%A8%E8%8A%82%E5%AE%9A%E4%B8%AA%E5%B0%8F%E7%9B%AE%E6%A0%87/</url>
+    
+    <content type="html"><![CDATA[<p>今天给自己定了个小目标，否则要堕落下去了。</p><ul><li>每天1篇随笔</li><li>读书10本</li><li>跑步100公里</li><li>酒水1000元内</li><li>代码10000行<br>看我的努力，加油。</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
