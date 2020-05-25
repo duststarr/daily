@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>一种小程序watch实现方案</title>
+    <link href="/daily/2020/05/25/%E4%B8%80%E7%A7%8D%E5%B0%8F%E7%A8%8B%E5%BA%8Fwatch%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88/"/>
+    <url>/daily/2020/05/25/%E4%B8%80%E7%A7%8D%E5%B0%8F%E7%A8%8B%E5%BA%8Fwatch%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88/</url>
+    
+    <content type="html"><![CDATA[<p>小程序没有全局变量的watch，很是不便</p><p>这里提供一种思路</p><h2 id="第一步：在app-js中加入两个函数"><a href="#第一步：在app-js中加入两个函数" class="headerlink" title="第一步：在app.js中加入两个函数"></a>第一步：在app.js中加入两个函数</h2><pre><code class="hljs javascript"><span class="hljs-comment">//app.js</span>  <span class="hljs-comment">/**</span><span class="hljs-comment">   * 手动触发更新</span><span class="hljs-comment">   * <span class="hljs-doctag">@param <span class="hljs-type">&#123;*&#125;</span> </span>name </span><span class="hljs-comment">   */</span>  globalEmit: <span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params">name</span>) </span>&#123;    <span class="hljs-keyword">if</span> (<span class="hljs-keyword">this</span>.globalData._watches &amp;&amp; <span class="hljs-keyword">this</span>.globalData._watches[name]) &#123;      <span class="hljs-keyword">this</span>.globalData._watches[name].forEach(<span class="hljs-function"><span class="hljs-params">func</span> =&gt;</span> &#123;        func(<span class="hljs-keyword">this</span>.globalData[name])      &#125;)    &#125;  &#125;,  <span class="hljs-comment">/**</span><span class="hljs-comment">   * 订阅全局变量的变更</span><span class="hljs-comment">   * <span class="hljs-doctag">@param <span class="hljs-type">&#123;*&#125;</span> </span>name </span><span class="hljs-comment">   * <span class="hljs-doctag">@param <span class="hljs-type">&#123;*&#125;</span> </span>callback </span><span class="hljs-comment">   * <span class="hljs-doctag">@param <span class="hljs-type">&#123;*&#125;</span> </span>callAtonce 如果有值是否立即回调</span><span class="hljs-comment">   */</span>  globalWatch: <span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params">name, callback, callAtonce = true</span>) </span>&#123;    <span class="hljs-keyword">if</span> (!<span class="hljs-keyword">this</span>.globalData._watches)      <span class="hljs-keyword">this</span>.globalData._watches = &#123;&#125;    <span class="hljs-keyword">if</span> (!<span class="hljs-keyword">this</span>.globalData._watches[name])      <span class="hljs-keyword">this</span>.globalData._watches[name] = []    <span class="hljs-keyword">this</span>.globalData._watches[name].push(callback)    <span class="hljs-keyword">if</span> (callAtonce &amp;&amp; <span class="hljs-keyword">this</span>.globalData[name])      callback(<span class="hljs-keyword">this</span>.globalData[name])  &#125;</code></pre><h2 id="第二步：需要watch的地方"><a href="#第二步：需要watch的地方" class="headerlink" title="第二步：需要watch的地方"></a>第二步：需要watch的地方</h2><pre><code class="hljs javascript">getApp().globalWatch(<span class="hljs-string">'globalVariableName'</span>,value=&gt;&#123;&#125;)</code></pre><h2 id="第三步：变量更新后"><a href="#第三步：变量更新后" class="headerlink" title="第三步：变量更新后"></a>第三步：变量更新后</h2><pre><code class="hljs javascript"><span class="hljs-keyword">const</span> app = getApp()app.globalVariableName = ...app.globalEmit(<span class="hljs-string">'globalVariableName'</span>) <span class="hljs-comment">// 手动触发更新事件</span></code></pre><h1 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h1><p>最开设计是globalGet,globalSet,globalWatch，<br>后来发现全局变量是对象时，不好处理。<br>所以用globalEmit,globalWatch两个函数实现。<br>毕竟是临时方法，全局watch官方早晚会提供的</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>时间一天天地过去</title>
     <link href="/daily/2020/05/24/%E6%97%B6%E9%97%B4%E4%B8%80%E5%A4%A9%E5%A4%A9%E5%9C%B0%E8%BF%87%E5%8E%BB/"/>
     <url>/daily/2020/05/24/%E6%97%B6%E9%97%B4%E4%B8%80%E5%A4%A9%E5%A4%A9%E5%9C%B0%E8%BF%87%E5%8E%BB/</url>
@@ -61,6 +74,19 @@
     <url>/daily/2020/05/20/%E8%B0%81%E6%B6%88%E8%B4%B9%E5%BE%97%E8%B5%B7%E7%A5%9E%E4%B9%8E%E5%85%B6%E6%8A%80/</url>
     
     <content type="html"><![CDATA[<p>今天读书有段文字,标题大意为”神乎其技”,文中举了人尽皆知的钱孔倒油的例子,并跟神箭手比.原文的态度,神乎其技也有讲究有用性.</p><p>看后我提出几个问题,”谁消费得起这样的技能?”,”什么样的社会消费得起这样的神技?”,”什么样的社会消费得起这么多的匠人?”,”什么样的社会消费得起这么多大学生?”</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>格言</title>
+    <link href="/daily/2020/05/20/%E6%A0%BC%E8%A8%80/"/>
+    <url>/daily/2020/05/20/%E6%A0%BC%E8%A8%80/</url>
+    
+    <content type="html"><![CDATA[<ul><li>Keep it simple, stupid</li><li>Stay hungry, Stay foolish</li><li>Live in the furture, then build what’s missing</li><li>The best way to predict the future is to create it</li><li></li></ul>]]></content>
     
     
     
